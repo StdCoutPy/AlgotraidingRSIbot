@@ -1,6 +1,6 @@
 # 📈 RSI Hunter Bot (Forex Edition) 🤖
 
-![Python]([https://img.shields.io](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png))
+![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png)
 ![License](https://img.shields.io)
 ![Platform](https://img.shields.io)
 
