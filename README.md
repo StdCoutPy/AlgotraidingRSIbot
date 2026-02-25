@@ -1,9 +1,8 @@
 # 📈 RSI Hunter Bot (Forex Edition) 🤖
 
 
-[[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" width="30" alt="Python Logo"> !Python 3.10+](https://www.python.org)
-![License](https://img.shields.io)
-![Platform](https://img.shields.io)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" width="30" alt="Python Logo"> ](https://www.python.org)
+!Python 3.10+
 
 **RSI Hunter** — это автономный торговый алгоритм для мониторинга валютного рынка Forex. Бот круглосуточно анализирует динамику цен, рассчитывает индекс относительной силы (RSI) по методу Уайлдера и мгновенно уведомляет владельца в Telegram о точках перекупленности и перепроданности.
 
@@ -23,8 +22,8 @@
 
 Проект сопровождается подробной книгой-руководством: **"Грокаем Алготрейдинг: Путь через прокси к профиту"**. 
 
-*   [Читать в формате Markdown](./BOOK.md) — подробный разбор каждой строчки кода.
-*   [Скачать PDF версию](./docs/Grokking_Algotrading_2026.pdf) — полная верстка для печати.
+*   [Читать в формате Markdown](./RSI Hunter Bot.md) — подробный разбор каждой строчки кода.
+*   [Скачать PDF версию](./docs/RSI Hunter Bot.pdf) — полная верстка для печати.
 
 ---
 
